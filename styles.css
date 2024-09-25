@@ -1,0 +1,14 @@
+h1{
+    background-color: gray;
+    border: 2px solid black;
+}
+
+h2{
+    background-color: brown;
+    border: 2px solid burlywood;
+}
+
+h3{
+    background-color: cadetblue;
+    border: 2px solid aliceblue;
+}
